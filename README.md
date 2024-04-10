@@ -1,1 +1,1 @@
-# bugs
+# Bugg rapporter
